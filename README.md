@@ -11,6 +11,7 @@ Estudante de Engenharia da Computação na UFBA.
 ### Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
+![Pygame](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffc222)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/doc)

@@ -5,7 +5,7 @@ Estudante de Engenharia da Computação na UFBA.
 ### Conecte-se comigo
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571997038966)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaokishimoto@ufba.br)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaokishimoto@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169E1)](https://www.linkedin.com/in/jo%C3%A3o-kishimoto/)
 
 ### Habilidades

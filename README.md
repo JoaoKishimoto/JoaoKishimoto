@@ -16,6 +16,7 @@ Estudante de Engenharia da Computação na UFBA.
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)](https://docs.github.com/)
+[![Verilog](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=verilog&logoColor=ffffff)]
 
 ### GitHub Stats
 

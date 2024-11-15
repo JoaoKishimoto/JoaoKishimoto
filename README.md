@@ -1,6 +1,7 @@
 # João Victor Marques Kishimoto
 
 Estudante de Engenharia da Computação na UFBA.
+Ex-aluno da USP de Sistemas de Informação.
 
 ### Conecte-se comigo
 

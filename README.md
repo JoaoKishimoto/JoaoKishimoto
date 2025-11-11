@@ -7,7 +7,7 @@ Ex-aluno da USP de Sistemas de Informação.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571920038152)
 [![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaov.kishimoto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169E1)](https://www.linkedin.com/in/joaokishimoto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169E1)](https://www.linkedin.com/in/joaokishimoto/)
 
 ### Habilidades
 

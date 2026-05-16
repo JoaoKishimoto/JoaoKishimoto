@@ -1,7 +1,12 @@
 # João Victor Marques Kishimoto
 
-Estudante de Engenharia da Computação na UFBA.
+Treinee na TITAN em desenvolvimento de software front-end
+Estudante de Engenharia da Computação na UFBA no 7º semestre.
 Ex-aluno da USP de Sistemas de Informação.
+
+Tiozão do pavê.
+Amante de Xadrez [chess.com](https://www.chess.com/member/kishimotojupiter)
+
 
 ### Conecte-se comigo
 

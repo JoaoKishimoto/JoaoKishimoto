@@ -1,12 +1,11 @@
 # João Victor Marques Kishimoto
 
-Treinee na TITAN em desenvolvimento de software front-end
-Estudante de Engenharia da Computação na UFBA no 7º semestre.
+Treinee na TITAN em desenvolvimento de software front-end. <br>
+Estudante de Engenharia da Computação na UFBA no 7º semestre. <br>
 Ex-aluno da USP de Sistemas de Informação.
 
-Tiozão do pavê.
-Amante de Xadrez [chess.com](https://www.chess.com/member/kishimotojupiter)
-
+Tiozão do pavê. <br>
+Amante de Xadrez [chess.com](https://www.chess.com/member/kishimotojupiter) <br>
 
 ### Conecte-se comigo
 

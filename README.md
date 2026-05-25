@@ -15,11 +15,10 @@ Amante de Xadrez, [Jogue comigo!](https://www.chess.com/member/kishimotojupiter)
 
 ### Habilidades
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffc222)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![ReactJS](https://img.shields.io/badge/ReactJS-000?style=for-the-badge&logo=react&logoColor=30A3DC)
+![TypeScript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
+![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=ffffff)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)](https://docs.github.com/)
-![Verilog](https://img.shields.io/badge/Verilog-000?style=for-the-badge&logo=verilog&logoColor=ffffff)
 
 ### GitHub Stats
 
